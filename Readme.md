@@ -47,4 +47,4 @@ Additional packages: dplyr, tidyr and reshape2
 13.  Finally group by the "tidyData" object and summarize it. **This is the answer for the 5 point.**
 
 tidyData preview:
-![tidyData First 20 Rows Preview](https://github.com/fabiancnieto/courseProject_getting-cleanning-data/tidyData-First-20-rows.png)
+![tidyData First 20 Rows Preview](https://github.com/fabiancnieto/courseProject_getting-cleanning-data/blob/master/tidyData-First-20-rows.png)
