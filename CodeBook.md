@@ -14,7 +14,7 @@ Original data source: The input data for this Course project come from the [UCIÂ
 
 **Object name:Â **tidyData
 
-| VariablePosition | VariableName  | VariableDescription                                                          | R ClassType | AllowedValues                                                                                                                               |
+| Variable Position | Variable Name  | Variable Description                                                          | R ClassType | AllowedValues                                                                                                                               |
 |------------------|---------------|------------------------------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | 1                | subject       | Represents the person owner of the measurements                              | Numeric     | Number from 1 to 30                                                                                                                         |
 | 2                | activitycode  | Represents the activity code that the person was doing while the measurement | Numeric     | Number from 1 to 6                                                                                                                          |
