@@ -45,3 +45,6 @@ Additional packages: dplyr, tidyr and reshape2
 11.  The last step to get the tidy data is to assign the correct class to each variable.
 12.  Variable names assigned: **subject** => Represents the person owner of the measurements, **activitycode** => Represents the activity code that the person was doing while the measurement, **activity** => Represents the activity that the person was doing while the measurement, **measurementid** => Represents the measurement identifier of the taken sample, **measurement** => Represents the kind of measurement taken, **axis** => Represents the axis of measurement taken, **mean** => Represents the mean value of the measurements, **std** => Represents the standard deviation value of the measurements. **This is the answer for the 3 and 4 points**.
 13.  Finally group by the "tidyData" object and summarize it. **This is the answer for the 5 point.**
+
+tidyData preview:
+![tidyData First 20 Rows Preview](https://github.com/fabiancnieto/courseProject_getting-cleanning-data/tidyData-First-20-rows.png)
