@@ -1,0 +1,11 @@
+*.csv
+*.zip
+*.RData
+*.Rhistory
+*.xlsx
+*.xml
+*.for
+*.json
+*.pdf
+*.jpg
+/UCI_HAR_Dataset/*
