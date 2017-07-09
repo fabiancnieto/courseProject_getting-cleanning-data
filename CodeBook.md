@@ -13,6 +13,7 @@ Original data source: The input data for this Course project come from the [UCIÂ
 **Data Dictionary**
 
 **Object name:Â **tidyData
+
 | VariablePosition | VariableName  | VariableDescription                                                          | R ClassType | AllowedValues                                                                                                                               |
 |------------------|---------------|------------------------------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | 1                | subject       | Represents the person owner of the measurements                              | Numeric     | Number from 1 to 30                                                                                                                         |
